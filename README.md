@@ -1,2 +1,7 @@
-# weak-security-requirements
+# Weak Security Requirements
+
 A wiki to document sites with weak security requirements
+
+| Site | Requirement |
+| --- | --- |
+| https://tiffany.ca | Twelve (12) character maximum password length. |
